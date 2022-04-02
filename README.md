@@ -1,2 +1,2 @@
-# EVIFY_filecoinHackathon
+# EVIFY
 A document identifier and verifier
