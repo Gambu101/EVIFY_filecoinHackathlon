@@ -1,2 +1,2 @@
 # EVIFY
-Short Expository
+A document identifier and verifier
